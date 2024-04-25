@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fec4c4bc-c4ac-41c4-a5b7-ff031448495b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n02/controller/FruitController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n02/exceptions/EmptyFruitException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n02/exceptions/FruitNoFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n02/model/domain/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n02/model/repository/FruitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n02/model/services/FruitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n02/model/services/FruitServiceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n01/S04T02N01MedinaGermanApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n01/controller/FruitController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n01/exceptions/EmptyFruitException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n01/exceptions/FruitNoFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n01/model/domain/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n01/model/repository/FruitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n01/model/services/FruitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/src/main/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n01/model/services/FruitServiceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T02N02MedinaGerman/src/src/test/java/cat/itacademy/barcelonactiva/medina/german/s04/t02/n01/S04T02N01MedinaGermanApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2faXh8FV8FVx25zSDJxzRTXLcdL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-jbr-17.0.9-3183f394aec4-631a3c05" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fec4c4bc-c4ac-41c4-a5b7-ff031448495b" name="Changes" comment="" />
+      <created>1714040281588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714040281588</updated>
+    </task>
+    <servers />
+  </component>
+</project>
